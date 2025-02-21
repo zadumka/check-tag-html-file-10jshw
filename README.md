@@ -1,6 +1,6 @@
 # Vanilla App Template
 
-<!-- використовується в автотесті, для файлу snackbar.html цей тег
+використовується в автотесті, для файлу snackbar.html цей тег
 
 <form class="form"> замінено на <ul class="form"> lkz
 для timer.html були внесені зміни в -->
