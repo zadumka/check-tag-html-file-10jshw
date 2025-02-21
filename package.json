@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/check-tag-html-file-10jshw/",
+    "build": "vite build --base=/check-tag-html-file-10jshw",
     "preview": "vite preview"
   },
   "devDependencies": {
